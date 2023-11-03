@@ -474,7 +474,7 @@ body {
   z-index: 10;
 }
 .page-3 .product-image .bubble-1 {
-  background-image: url("/image/1.png");
+  background-image: url("../image/1.png");
   opacity: 0.878;
   position: absolute;
   left: 30px;
@@ -488,7 +488,7 @@ body {
   animation-direction: alternate;
 }
 .page-3 .product-image .bubble-2 {
-  background-image: url("/image/2.png");
+  background-image: url("../image/2.png");
   opacity: 0.929;
   position: absolute;
   left: 135px;
@@ -502,7 +502,7 @@ body {
   animation-direction: alternate-reverse;
 }
 .page-3 .product-image .bubble-3 {
-  background-image: url("/image/3.png");
+  background-image: url("../image/3.png");
   opacity: 0.929;
   position: absolute;
   left: 150px;
@@ -516,7 +516,7 @@ body {
   animation-direction: alternate-re;
 }
 .page-3 .product-image .bubble-4 {
-  background-image: url("/image/4.png");
+  background-image: url("../image/4.png");
   opacity: 0.929;
   position: absolute;
   left: 195px;
@@ -530,7 +530,7 @@ body {
   animation-direction: alternate;
 }
 .page-3 .product-image .bubble-5 {
-  background-image: url("/image/5.png");
+  background-image: url("../image/5.png");
   opacity: 0.929;
   position: absolute;
   left: 135px;
@@ -544,7 +544,7 @@ body {
   animation-direction: alternate;
 }
 .page-3 .product-image .bubble-6 {
-  background-image: url("/image/6.png");
+  background-image: url("../image/6.png");
   opacity: 0.929;
   position: absolute;
   left: 140px;
@@ -558,7 +558,7 @@ body {
   animation-direction: alternate;
 }
 .page-3 .product-image .bubble-7 {
-  background-image: url("/image/7.png");
+  background-image: url("../image/7.png");
   opacity: 0.929;
   position: absolute;
   left: -40px;
@@ -572,7 +572,7 @@ body {
   animation-direction: alternate-reverse;
 }
 .page-3 .product-image .bubble-8 {
-  background-image: url("/image/8.png");
+  background-image: url("../image/8.png");
   opacity: 0.929;
   position: absolute;
   left: -25px;
