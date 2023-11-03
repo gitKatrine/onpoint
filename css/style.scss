@@ -82,13 +82,13 @@ body {
    }
 }
 
-.main {
+.main {пш
    --n: 0;
    display: flex;
    width: 3072px;
    transform: translate(calc(var(--i, 0)/var(--n)*-100%));
    transition: transform .5s ease-out;
-   background: url(/image/bg.jpg);
+   background: url(./image/bg.jpg);
    .page {
       position: relative;
       width: 1024px;
